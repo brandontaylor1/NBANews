@@ -1,0 +1,16 @@
+{
+  "name": "nbaapi",
+  "version": "1.0.0",
+  "description": "NBA Information App",
+  "source": "index.html",
+  "scripts": {
+    "start": "nodemon script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brandon Taylor",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
